@@ -1,0 +1,22 @@
+/* Write your code here. */
+.thumbnail-container {
+  list-style-type: none;
+  margin-right: 5px;
+  margin-left: 0px;
+  margin-bottom: 5px;
+}
+.button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+.button1 {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  opacity: 0.5;
+  margin-left: 0px;
+}
